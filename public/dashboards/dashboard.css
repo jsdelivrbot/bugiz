@@ -1,0 +1,14 @@
+.lane-selector .tile{
+
+    cursor: pointer;
+}
+
+.lane-selector .tile.selected{
+     background-color: #f9d7d7;
+ }
+#map_canvas{
+    height: 400px;
+}
+.display_none{
+    display: none;
+}
